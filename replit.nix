@@ -15,9 +15,4 @@
             pkgs.libuuid
         ];
     };
-    {
-       permittedInsecurePackages = [
-         "nodejs-14.21.3"
-       ];
-     }
 }
